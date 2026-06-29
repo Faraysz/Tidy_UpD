@@ -1,4 +1,16 @@
-# Rapikan Downloads
+<div align="center">
+
+# 📁 Rapikan Downloads
+
+**Script Python sederhana untuk merapikan file yang menumpuk di satu folder, berdasarkan kata kunci nama file**
+
+[![Python](https://img.shields.io/badge/Python-3.6+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
+[![No Dependencies](https://img.shields.io/badge/Dependencies-None-4CAF50?style=for-the-badge)](#persyaratan)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#persyaratan)
+
+</div>
+
+---
 
 Script Python sederhana untuk merapikan file-file yang menumpuk di satu folder (misalnya folder Downloads) dengan mengelompokkannya ke dalam subfolder, berdasarkan **kata kunci di nama file**.
 
@@ -128,3 +140,11 @@ Tidak perlu mengubah bagian logika (`tentukan_kategori`, `rapikan_folder`) — c
 ## Pengembangan Selanjutnya
 
 Kalau butuh versi yang berjalan otomatis di background (memantau folder dan memindahkan file baru secara real-time tanpa perlu dijalankan manual setiap kali), itu bisa dibuat sebagai script terpisah menggunakan library `watchdog`.
+
+---
+
+<div align="center">
+
+Made with 🐍 for tidier downloads
+
+</div>
