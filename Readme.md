@@ -4,7 +4,7 @@
 
 **Script Python sederhana untuk merapikan file yang menumpuk di satu folder, berdasarkan kata kunci nama file**
 
-[![Python](https://img.shields.io/badge/Python-3.6+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
+[![Python](https://img.shields.io/badge/Python-3.13.7-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
 [![No Dependencies](https://img.shields.io/badge/Dependencies-None-4CAF50?style=for-the-badge)](#persyaratan)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#persyaratan)
 
