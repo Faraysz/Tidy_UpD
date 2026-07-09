@@ -39,7 +39,7 @@ Buka `rapikan_downloads.py` dengan text editor, lalu sesuaikan bagian berikut:
 
 **Lokasi folder yang mau dirapikan:**
 ```python
-TARGET_FOLDER = r"C:\Users\Lenovo\Downloads"
+TARGET_FOLDER = r"C:\Users\Lenovo\Unduhan"
 ```
 
 **Kategori dan kata kunci:**

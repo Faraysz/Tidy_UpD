@@ -18,7 +18,7 @@ from pathlib import Path
 # ============================================================
 
 # Lokasi folder yang mau dirapikan
-TARGET_FOLDER = r"C:\Users\Lenovo\Downloads"
+TARGET_FOLDER = r"C:\Users\Lenovo\Unduhan"
 
 # Kategori: nama_folder_tujuan -> daftar kata kunci (huruf kecil semua)
 # File akan dicek satu per satu, kata kunci pertama yang cocok dipakai.
@@ -55,8 +55,8 @@ KATEGORI_BY_EXTENSION = {
 FOLDER_LAINNYA = "Lainnya"
 
 # Mode simulasi dulu (True = cuma preview, tidak benar-benar pindah file)
-DRY_RUN = False
-
+DRY_RUN = True
+# False
 
 # ============================================================
 # 2. LOGIKA SCRIPT - tidak perlu diubah
